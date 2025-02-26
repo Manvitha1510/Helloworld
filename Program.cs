@@ -7,6 +7,7 @@ namespace Helloworld
         static void Main(string[] args)
         {
             Debug.WriteLine("Hello, World!");
+            Debug.WriteLine("New message");
             Console.ReadLine();
 
             int x;
